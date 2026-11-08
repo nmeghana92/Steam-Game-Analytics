@@ -91,22 +91,22 @@ streamlit run app.py
 ## Application Screenshots
 
 ### 1. Main Recommendation Interface
-![Main Recommendation Interface](./screenshots/main-recommendation-interface.png)
+![Main Recommendation Interface](./screenshots/Main-recommendation-interface.png)
 
 ### 2. Recommended Games
-![Recommended Games](./screenshots/recommended-games-output.png)
+![Recommended Games](./screenshots/Recommended-games-output.png)
 
 ### 3. AI-Generated Explanation
 ![AI Explanation](./screenshots/AI-Explanation.png)
 
 ### 4. Exploratory Data Analysis
-![EDA Overview](./screenshots/eda.png)
+![EDA Overview](./screenshots/EDA.png)
 
 ### 5. EDA Visualizations
-![EDA Analysis](./screenshots/eda-1.png)
+![EDA Analysis](./screenshots/EDA-1.png)
 
 ### 6. Confusion Matrix
-![Confusion Matrix](./screenshots/confusion-matrix.png)
+![Confusion Matrix](./screenshots/Confusion-Matrix.png)
 
 ### 7. Game Price Analysis
 ![Game Price Analysis](./screenshots/price-analysis.png)
