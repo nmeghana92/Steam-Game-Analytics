@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+games_march2025_cleaned.csv
