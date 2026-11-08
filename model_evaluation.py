@@ -9,6 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
+from sklearn.dummy import DummyClassifier
 
 from sklearn.metrics import (
     accuracy_score,
@@ -120,7 +121,8 @@ def run_model_eval():
     classifiers = {
         "Logistic Regression": LogisticRegression(max_iter=1000, class_weight="balanced"),
         "Decision Tree": DecisionTreeClassifier(max_depth=15, class_weight="balanced", random_state=42),
-        "Random Forest": RandomForestClassifier(n_estimators=100, max_depth=15, class_weight="balanced", random_state=42, n_jobs=-1)
+        "Random Forest": RandomForestClassifier(n_estimators=100, max_depth=15, class_weight="balanced", random_state=42, n_jobs=-1),
+        "Dummy": DummyClassifier(strategy="most_frequent")
     }
 
     eval_metrics = []
