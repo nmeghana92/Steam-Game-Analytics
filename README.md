@@ -88,6 +88,44 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## Application Screenshots
+
+### 1. Main Application Interface
+
+![Main Interface](screenshots/main-interface.png)
+
+### 2. Game Recommendation Results
+
+![Recommended Games](screenshots/recommendations.png)
+
+### 3. AI-Generated Recommendation Explanation
+
+![AI Explanation](screenshots/ai-explanation.png)
+
+### 4. Exploratory Data Analysis – Overview
+
+![EDA Overview](screenshots/eda-overview.png)
+
+### 5. Data Analysis and Visualizations
+
+![EDA Analysis](screenshots/eda-analysis.png)
+
+### 6. Sentiment Prediction Model Evaluation
+
+![Model Evaluation](screenshots/model-evaluation.png)
+
+### 7. Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion-matrix.png)
+
+### 8. Game Price Analysis
+
+![Price Analysis](screenshots/price-analysis.png)
+
+### 9. Baseline Model Evaluation
+
+![Dummy Classifier](screenshots/dummy-classifier.png)
+
 
 ## Project Status
 
