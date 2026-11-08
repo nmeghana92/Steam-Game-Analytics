@@ -28,7 +28,7 @@ div[data-testid="stMetric"] { background-color: white; padding: 15px; border-rad
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🕹️ AI Steam Game Insights & Recommendations")
+st.title("🕹️ AI-Powered Steam Game Analytics")
 st.write("Explore game stats, evaluate review sentiments, and find your next favorite game using AI.")
 st.divider()
 
