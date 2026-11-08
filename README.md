@@ -97,7 +97,7 @@ streamlit run app.py
 ![Recommended Games](./screenshots/recommended-games-output.png)
 
 ### 3. AI-Generated Explanation
-![AI Explanation](./screenshots/ai-explanation.png)
+![AI Explanation](./screenshots/AI-Explanation.png)
 
 ### 4. Exploratory Data Analysis
 ![EDA Overview](./screenshots/eda.png)
