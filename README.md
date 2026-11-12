@@ -121,6 +121,20 @@ streamlit run app.py
 
 The project includes data preprocessing, exploratory data analysis, machine learning classification, content-based recommendations, and a Streamlit dashboard.
 
+Future Enhancements
+
+Expand the recommendation system with additional game attributes.
+
+Experiment with advanced recommendation algorithms.
+
+Improve model performance through hyperparameter tuning.
+
+Add more interactive analytical visualizations.
+
+Enhance AI-generated explanations.
+
+Explore user-personalized game recommendations.
+
 ## Author
 
 Meghana Nimmaluri
