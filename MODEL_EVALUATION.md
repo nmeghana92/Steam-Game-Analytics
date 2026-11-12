@@ -61,3 +61,11 @@ The split uses a fixed random state of 42 and stratified sampling.
 The objective is to compare machine learning models
 and identify their effectiveness in classifying
 Steam game review sentiment.
+
+## 8. Developer and Publisher Analysis
+
+Analyzes the distribution of games by developers and publishers to identify the most active game creators and publishers in the Steam gaming industry.
+
+- Identifies the top 10 developers based on the number of games published.
+- Highlights publishers with the highest number of games.
+- Helps understand game development and publishing trends in the Steam market.
